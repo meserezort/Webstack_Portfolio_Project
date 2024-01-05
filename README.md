@@ -1,8 +1,7 @@
 Learning management system using django web framework
 I made the system easy to understand yet feature-rich. Let's enhance the project by contributing! 👩‍💻👩‍💻
 
-Demo video: https://youtu.be/KKIeRXwZ-Sw Please note that the video does not feature the most recent UI design.
-Setup video: https://youtu.be/gMJfENDEyUs
+
 dj-lms-dashboard
 
 Current features
